@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_mobile_vision: ^0.1.4+1
   file_picker: ^4.6.1
+  google_mlkit_text_recognition: ^0.3.0
 
 dev_dependencies:
   flutter_test:
